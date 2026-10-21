@@ -1,4 +1,6 @@
-![Image alt](https://github.com/xiaomishka/clear_words/blob/main/Screenshot_2.jpg)
+## Это ***legacy версия*** (устаревшая), актуальная и скоростная -> [тут](https://github.com/xiaomishka/clear_words) <-
+
+![Image alt](https://github.com/xiaomishka/clear_words-legalicy-/blob/main/Screenshot_2.jpg)
 
 #  clear_words
 Бесплатная кросс-платформенная программа для очистки ключевых слов по стоп словам
